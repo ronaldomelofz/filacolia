@@ -1,0 +1,15 @@
+# Configuração do sistema open source da Filacolia
+# Não precisa de chaves de API externas!
+
+# Supabase - Para armazenar os textos (gratuito)
+# Crie um projeto em: https://supabase.com/
+NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
+SUPABASE_SERVICE_KEY=your-service-key
+
+# Ollama - Para IA local (opcional)
+# Instale em: https://ollama.ai/
+# O sistema funcionará mesmo sem Ollama (apenas busca de texto)
+
+# Configurações do sistema
+NEXT_PUBLIC_USE_LOCAL_AI=true
+NEXT_PUBLIC_SYSTEM_NAME=Assistente da Filacolia 

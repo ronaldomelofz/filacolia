@@ -1,0 +1,65 @@
+{
+  "data": "2025-07-30T14:31:51.172Z",
+  "totalArquivos": 8,
+  "totalPaginas": 1274,
+  "totalCaracteres": 4873885,
+  "totalPalavras": 766699,
+  "arquivos": [
+    {
+      "arquivo": "filocalia-tomo-1-volume-1.pdf",
+      "paginas": 137,
+      "caracteres": 561443,
+      "palavras": 87777,
+      "arquivoTexto": "textos-extraidos\\filocalia-tomo-1-volume-1.txt"
+    },
+    {
+      "arquivo": "filocalia-tomo-1-volume-2.pdf",
+      "paginas": 128,
+      "caracteres": 565962,
+      "palavras": 88501,
+      "arquivoTexto": "textos-extraidos\\filocalia-tomo-1-volume-2.txt"
+    },
+    {
+      "arquivo": "filocalia-tomo-1-volume-3.pdf",
+      "paginas": 260,
+      "caracteres": 980055,
+      "palavras": 154740,
+      "arquivoTexto": "textos-extraidos\\filocalia-tomo-1-volume-3.txt"
+    },
+    {
+      "arquivo": "filocalia-tomo-2-volume-1.pdf",
+      "paginas": 195,
+      "caracteres": 757465,
+      "palavras": 119165,
+      "arquivoTexto": "textos-extraidos\\filocalia-tomo-2-volume-1.txt"
+    },
+    {
+      "arquivo": "filocalia-tomo-2-volume-2.pdf",
+      "paginas": 173,
+      "caracteres": 660007,
+      "palavras": 103687,
+      "arquivoTexto": "textos-extraidos\\filocalia-tomo-2-volume-2.txt"
+    },
+    {
+      "arquivo": "filocalia-tomo-2-volume-3.pdf",
+      "paginas": 190,
+      "caracteres": 688570,
+      "palavras": 108789,
+      "arquivoTexto": "textos-extraidos\\filocalia-tomo-2-volume-3.txt"
+    },
+    {
+      "arquivo": "filocalia-tomo-2-volume-4.pdf",
+      "paginas": 172,
+      "caracteres": 623429,
+      "palavras": 97910,
+      "arquivoTexto": "textos-extraidos\\filocalia-tomo-2-volume-4.txt"
+    },
+    {
+      "arquivo": "sobre-a-filocalia.pdf",
+      "paginas": 19,
+      "caracteres": 36954,
+      "palavras": 6130,
+      "arquivoTexto": "textos-extraidos\\sobre-a-filocalia.txt"
+    }
+  ]
+}
